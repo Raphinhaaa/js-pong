@@ -1,1 +1,1 @@
-# js-pong }
+# js-pong
